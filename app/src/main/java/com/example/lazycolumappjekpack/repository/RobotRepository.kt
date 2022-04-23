@@ -8,23 +8,23 @@ class RobotRepository {
         return listOf(
             Robot(
                 id = 0,
-                "sherlok 1",
-                "11.05.1995"
+                "sh- 1",
+                "11.5.1995"
             ,1.2
             ),            Robot(
                 id = 1,
-                "sherlok 2",
-                "11.05.2000"
+                "sh- 2",
+                "11.5.2000"
                 ,1.4
             ),            Robot(
                 id = 2,
-                "sherlok 4",
-                "11.05.0000"
+                "sh- 4",
+                "11.5.0000"
                 ,1.3
             ),            Robot(
                 id = 3,
-                "sherlok from the future",
-                "11.05.3000"
+                "sh-10",
+                "11.5.3000"
                 ,1.1
             )
         )
